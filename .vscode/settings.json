@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/Library/Developer/CommandLineTools/usr/bin/python3",
+  "python-envs.defaultEnvManager": "ms-python.python:system"
+}
